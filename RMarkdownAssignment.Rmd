@@ -22,6 +22,7 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 ## Wise Words
 > with great power comes great responsibility.
+[link](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 
 ## My semester
 __DATA2401__ | __CS3300__ | __CS3321__ | 
