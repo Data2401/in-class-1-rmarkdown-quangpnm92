@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Quang Pham"
 date: "Data 2401"
 output: html_document
 ---
@@ -19,16 +19,24 @@ Reminder: There is a "Markdown Help" page available in RStudio.
 
 Below the "Your work here" section header, do the following 3 things. To turn this in, knit the RMarkdown file, and zip and submit the html.  
 
-1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
-2. Make a subsection called "My semester". Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
+## Wise Words
+> with great power comes great responsibility.
 
-3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
+## My semester
+__DATA2401__ | __CS3300__ | __CS3321__ | 
+:------------- | :------------- |:-------------|
+_Data Science_  | _Object Oriented_  | _Software Engineer_|
+Dr. Shoemaker  | Dr. Cyrill  | Dr. Yilmar|
 
-+ A _subsubheading_ with the name of the artist or author;    
-+ An example of their writing or lyrics (formatted in a *plain code block*);   
-+ A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
 
+## I recommend
+### Mika
+```
+This is the hardest story that I've ever told
+No hope, or love, or glory, happy ending's gone forevermore
+```
 
-Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
+* Happy Ending
+* Grace Kelly
  
